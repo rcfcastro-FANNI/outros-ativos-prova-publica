@@ -1,2 +1,6 @@
 ﻿data;h4_sinal_hoje;h4_direcao_hoje;h11_condicao_saida_hoje;posicao_aberta;direcao_posicao;data_entrada;dias_em_posicao;evento;hash;resultado_real;observacoes
 2026-09-28;não;—;não;não;—;—;0;sem posição;a8558a0f7a6644379cbb645554eab89e3df3f1c216469f331a6f24134d086dfc;;
+2026-09-29;não;—;não;não;—;—;0;sem posição;ad64013af4affc68376ee603fa2730583c7947e6def367c4798332a29a69430b;;
+2026-09-30;não;—;não;não;—;—;0;sem posição;1bc7527db99704c5b8a42f17c4fa7a99219d0db3eeb8c45711415f90b08349ee;;
+2026-10-01;não;—;não;não;—;—;0;sem posição;6c64c6d98dcb7580f4f03f17c13013d147e86223887115e544997ab4f25e8b0a;;
+2026-10-02;sim;compra;não;sim;compra;2026-10-02;0;entrada nova (H4);3ae963fbb98fee237c05875b3325f803d9f30fee5d631f4c4365f4391bf106a1;;
